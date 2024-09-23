@@ -302,4 +302,4 @@ async def membercount(interaction: discord.Interaction):
 
     await interaction.response.send_message(embed=embed)
 
-bot.run("MTI4NzQyMzMzNTg2MDI3MzMwNA.G56AoA.hbZsyRC9YyZ6RXvCjCVSMtTR7E9213c9IXZjXU")
+bot.run("TOKEN")
